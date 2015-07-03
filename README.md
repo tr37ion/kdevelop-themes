@@ -10,7 +10,7 @@ An amber/brown styled Kdevelop theme.
 # Installation
 
 1. Open Kdevelop
-2. Open the menu **Settings/Kedit Settings/Font & Colors**
+2. Open the menu **Settings/Configure Editor/Font & Colors**
 3. Press the **New** button name it eg. **Brownways**
 4. Press **Import...** button and choose the corresponding Kdevelop theme file **brownways.kateschema**.
 
