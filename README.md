@@ -5,7 +5,8 @@ Here you will find my current Kdevelop color themes I use for development.
 ## Bownways
 
 ![][snip]
-An amber/brown styled Kdevelop theme.
+
+An amber-brown tinted Kdevelop theme.
 
 # Installation
 
